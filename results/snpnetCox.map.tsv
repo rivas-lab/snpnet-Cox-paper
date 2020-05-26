@@ -1,0 +1,331 @@
+ukbcode	cases	controls	phenotypename	icd10
+130008	4816	332336	other bacterial intestinal infections	A04
+130016	3318	333834	viral and other specified intestinal infections	A08
+130020	1659	335493	respiratory tuberculosis, bacteriologically and histologically confirmed	A15
+130062	1374	335778	whooping cough	A37
+130070	4987	332165	other septicaemia	A41
+130106	1267	335885	other predominantly sexually transmitted diseases, not elsewhere classified	A63
+130174	3100	334052	herpesviral [herpes simplex] infections	B00
+130176	6795	330357	varicella [chickenpox]	B01
+130178	11112	326040	zoster [herpes zoster]	B02
+130184	4920	332232	measles	B05
+130188	12115	325037	viral warts	B07
+130216	3165	333987	mumps	B26
+130218	2270	334882	infectious mononucleosis	B27
+130224	7418	329734	viral infection of unspecified site	B34
+130226	22218	314934	dermatophytosis	B35
+130228	3687	333465	other superficial mycoses	B36
+130320	1633	335519	scabies	B86
+130336	4048	333104	streptococcus and staphylococcus as the cause of diseases classified to other chapters	B95
+130338	8318	328834	other bacterial agents as the cause of diseases classified to other chapters	B96
+130622	13939	323213	iron deficiency anaemia	D50
+130624	2165	334987	vitamin b12 deficiency anaemia	D51
+130648	14306	322846	other anaemias	D64
+130656	1445	335707	other coagulation defects	D68
+130658	2461	334691	purpura and other haemorrhagic conditions	D69
+130660	3553	333599	agranulocytosis	D70
+130670	1366	335786	other diseases of blood and blood-forming organs	D75
+130686	1168	335984	sarcoidosis	D86
+130696	22730	314422	other hypothyroidism	E03
+130698	3006	334146	other non-toxic goitre	E04
+130700	4663	332489	thyrotoxicosis [hyperthyroidism]	E05
+130706	2778	334374	insulin-dependent diabetes mellitus	E10
+130708	20475	316677	non-insulin-dependent diabetes mellitus	E11
+130714	14751	322401	unspecified diabetes mellitus	E14
+130718	1937	335215	other disorders of pancreatic internal secretion	E16
+130722	1151	336001	hyperparathyroidism and other disorders of parathyroid gland	E21
+130736	1391	335761	ovarian dysfunction	E28
+130774	1227	335925	vitamin d deficiency	E55
+130792	22667	314485	obesity	E66
+130814	68477	268675	disorders of lipoprotein metabolism and other lipidaemias	E78
+130818	1058	336094	disorders of porphyrin and bilirubin metabolism	E80
+130820	2928	334224	disorders of mineral metabolism	E83
+130828	7718	329434	other disorders of fluid, electrolyte and acid-base balance	E87
+130832	1490	335662	postprocedural endocrine and metabolic disorders, not elsewhere classified	E89
+130846	1075	336077	delirium, not induced by alcohol and other psychoactive substances	F05
+130868	25648	311504	mental and behavioural disorders due to use of tobacco	F17
+130894	35256	301896	depressive episode	F32
+130896	2464	334688	recurrent depressive disorder	F33
+130922	1405	335747	sexual dysfunction, not caused by organic disorder or disease	F52
+130998	1610	335542	meningitis due to other and unspecified causes	G03
+131022	1609	335543	parkinson's disease	G20
+131032	3130	334022	other extrapyramidal and movement disorders	G25
+131042	1626	335526	multiple sclerosis	G35
+131052	16651	320501	migraine	G43
+131054	3671	333481	other headache syndromes	G44
+131056	5725	331427	transient cerebral ischaemic attacks and related syndromes	G45
+131060	10975	326177	sleep disorders	G47
+131062	2045	335107	disorders of trigeminal nerve	G50
+131064	2088	335064	facial nerve disorders	G51
+131072	4157	332995	nerve root and plexus compressions in diseases classified elsewhere	G55
+131074	15183	321969	mononeuropathies of upper limb	G56
+131076	3315	333837	mononeuropathies of lower limb	G57
+131086	2286	334866	other polyneuropathies	G62
+131102	1739	335413	hemiplegia	G81
+131114	2708	334444	other disorders of brain	G93
+131118	1018	336134	other diseases of spinal cord	G95
+131124	1437	335715	other disorders of nervous system, not elsewhere classified	G98
+131126	1097	336055	other disorders of nervous system in diseases classified elsewhere	G99
+131128	8425	328727	hordeolum and chalazion	H00
+131130	3434	333718	other inflammation of eyelid	H01
+131132	7629	329523	other disorders of eyelid	H02
+131136	9249	327903	disorders of lachrymal system	H04
+131150	1088	336064	keratitis	H16
+131154	1543	335609	other disorders of cornea	H18
+131158	1772	335380	iridocyclitis	H20
+131164	9960	327192	senile cataract	H25
+131166	20161	316991	other cataract	H26
+131178	4302	332850	retinal detachments and breaks	H33
+131180	1339	335813	retinal vascular occlusions	H34
+131182	7676	329476	other retinal disorders	H35
+131184	1863	335289	retinal disorders in diseases classified elsewhere	H36
+131186	9916	327236	glaucoma	H40
+131192	1176	335976	disorders of globe	H44
+131204	1553	335599	other strabismus	H50
+131208	3517	333635	disorders of refraction and accommodation	H52
+131210	7003	330149	visual disturbances	H53
+131216	5059	332093	other disorders of eye and adnexa	H57
+131222	14964	322188	otitis externa	H60
+131224	21026	316126	other disorders of external ear	H61
+131228	4026	333126	nonsuppurative otitis media	H65
+131234	1778	335374	eustachian salpingitis and obstruction	H68
+131236	1869	335283	other disorders of eustachian tube	H69
+131242	1339	335813	perforation of tympanic membrane	H72
+131252	8133	329019	disorders of vestibular function	H81
+131256	8031	329121	other diseases of inner ear	H83
+131258	5064	332088	conductive and sensorineural hearing loss	H90
+131260	9113	328039	other hearing loss	H91
+131262	10910	326242	otalgia and effusion of ear	H92
+131264	9471	327681	other disorders of ear, not elsewhere classified	H93
+131282	2081	335071	multiple valve diseases	I08
+131286	83727	253425	essential (primary) hypertension	I10
+131290	1289	335863	hypertensive renal disease	I12
+131296	20542	316610	angina pectoris	I20
+131298	12514	324638	acute myocardial infarction	I21
+131304	2095	335057	other acute ischaemic heart diseases	I24
+131306	25378	311774	chronic ischaemic heart disease	I25
+131308	5890	331262	pulmonary embolism	I26
+131310	1061	336091	other pulmonary heart diseases	I27
+131324	3172	333980	nonrheumatic aortic valve disorders	I35
+131338	1572	335580	cardiomyopathy	I42
+131342	4459	332693	atrioventricular and left bundle-branch block	I44
+131344	2822	334330	other conduction disorders	I45
+131346	1178	335974	cardiac arrest	I46
+131348	4105	333047	paroxysmal tachycardia	I47
+131350	17166	319986	atrial fibrillation and flutter	I48
+131352	6339	330813	other cardiac arrhythmias	I49
+131354	6812	330340	heart failure	I50
+131356	6069	331083	complications and ill-defined descriptions of heart disease	I51
+131360	1040	336112	subarachnoid haemorrhage	I60
+131366	3907	333245	cerebral infarction	I63
+131374	3286	333866	other cerebrovascular diseases	I67
+131380	1481	335671	atherosclerosis	I70
+131382	1983	335169	aortic aneurysm and dissection	I71
+131386	7014	330138	other peripheral vascular diseases	I73
+131388	992	336160	arterial embolism and thrombosis	I74
+131390	1631	335521	other disorders of arteries and arterioles	I77
+131392	1782	335370	diseases of capillaries	I78
+131396	11533	325619	phlebitis and thrombophlebitis	I80
+131402	15045	322107	varicose veins of lower extremities	I83
+131404	21005	316147	haemorrhoids	I84
+131408	1334	335818	varicose veins of other sites	I86
+131414	1193	335959	other non-infective disorders of lymphatic vessels and lymph nodes	I89
+131416	7145	330007	hypotension	I95
+131424	3686	333466	acute nasopharyngitis [common cold]	J00
+131426	17020	320132	acute sinusitis	J01
+131428	16045	321107	acute pharyngitis	J02
+131430	10363	326789	acute tonsillitis	J03
+131432	3147	334005	acute laryngitis and tracheitis	J04
+131436	34287	302865	acute upper respiratory infections of multiple and unspecified sites	J06
+131442	7185	329967	influenza, virus not identified	J11
+131456	16203	320949	pneumonia, organism unspecified	J18
+131458	3731	333421	acute bronchitis	J20
+131462	40357	296795	unspecified acute lower respiratory infection	J22
+131464	32130	305022	vasomotor and allergic rhinitis	J30
+131468	8568	328584	chronic sinusitis	J32
+131470	5008	332144	nasal polyp	J33
+131472	11324	325828	other disorders of nose and nasal sinuses	J34
+131474	1114	336038	chronic diseases of tonsils and adenoids	J35
+131480	2019	335133	diseases of vocal cords and larynx, not elsewhere classified	J38
+131484	6229	330923	bronchitis, not specified as acute or chronic	J40
+131490	2129	335023	emphysema	J43
+131492	10762	326390	other chronic obstructive pulmonary disease	J44
+131494	45175	291977	asthma	J45
+131498	2763	334389	bronchiectasis	J47
+131528	1512	335640	other interstitial pulmonary diseases	J84
+131538	1120	336032	pleural plaque	J92
+131540	1864	335288	pneumothorax	J93
+131546	2509	334643	respiratory failure, not elsewhere classified	J96
+131548	10119	327033	other respiratory disorders	J98
+131554	1706	335446	embedded and impacted teeth	K01
+131556	3020	334132	dental caries	K02
+131560	5065	332087	diseases of pulp and periapical tissues	K04
+131562	1164	335988	gingivitis and periodontal diseases	K05
+131566	1701	335451	dentofacial anomalies [including malocclusion]	K07
+131576	2426	334726	stomatitis and related lesions	K12
+131578	4499	332653	other diseases of lip and oral mucosa	K13
+131582	9881	327271	oesophagitis	K20
+131584	40433	296719	gastro-oesophageal reflux disease	K21
+131586	11586	325566	other diseases of oesophagus	K22
+131592	5710	331442	duodenal ulcer	K26
+131594	1101	336051	peptic ulcer, site unspecified	K27
+131598	31712	305440	gastritis and duodenitis	K29
+131602	8785	328367	other diseases of stomach and duodenum	K31
+131604	2980	334172	acute appendicitis	K35
+131608	3618	333534	unspecified appendicitis	K37
+131612	18751	318401	inguinal hernia	K40
+131616	4829	332323	umbilical hernia	K42
+131618	4126	333026	ventral hernia	K43
+131620	30546	306606	diaphragmatic hernia	K44
+131624	1238	335914	unspecified abdominal hernia	K46
+131626	1951	335201	crohn's disease [regional enteritis]	K50
+131628	3735	333417	ulcerative colitis	K51
+131630	16802	320350	other non-infective gastro-enteritis and colitis	K52
+131632	1290	335862	vascular disorders of intestine	K55
+131636	32300	304852	diverticular disease of intestine	K57
+131638	21879	315273	irritable bowel syndrome	K58
+131640	15108	322044	other functional intestinal disorders	K59
+131642	4136	333016	fissure and fistula of anal and rectal regions	K60
+131646	26253	310899	other diseases of anus and rectum	K62
+131648	16434	320718	other diseases of intestine	K63
+131650	22596	314556	haemorrhoids and perianal venous thrombosis	K64
+131654	3429	333723	other disorders of peritoneum	K66
+131658	1088	336064	alcoholic liver disease	K70
+131666	1192	335960	fibrosis and cirrhosis of liver	K74
+131668	1309	335843	other inflammatory liver diseases	K75
+131670	5839	331313	other diseases of liver	K76
+131674	18759	318393	cholelithiasis	K80
+131676	3502	333650	cholecystitis	K81
+131678	2154	334998	other diseases of gallbladder	K82
+131680	2288	334864	other diseases of biliary tract	K83
+131682	2440	334712	acute pancreatitis	K85
+131684	1324	335828	other diseases of pancreas	K86
+131688	2825	334327	intestinal malabsorption	K90
+131690	1636	335516	postprocedural disorders of digestive system, not elsewhere classified	K91
+131692	11048	326104	other diseases of digestive system	K92
+131698	1016	336136	impetigo	L01
+131700	7693	329459	cutaneous abscess, furuncle and carbuncle	L02
+131702	19519	317633	cellulitis	L03
+131706	1046	336106	pilonidal cyst	L05
+131708	9929	327223	other local infections of skin and subcutaneous tissue	L08
+131720	9320	327832	atopic dermatitis	L20
+131722	6757	330395	seborrhoeic dermatitis	L21
+131730	2151	335001	unspecified contact dermatitis	L25
+131736	1015	336137	lichen simplex chronicus and prurigo	L28
+131738	8200	328952	pruritus	L29
+131740	31968	305184	other dermatitis	L30
+131742	9593	327559	psoriasis	L40
+131748	1494	335658	lichen planus	L43
+131754	7348	329804	urticaria	L50
+131768	13436	323716	skin changes due to chronic exposure to nonionising radiation	L57
+131782	1975	335177	other nonscarring hair loss	L65
+131790	3833	333319	acne	L70
+131792	3955	333197	rosacea	L71
+131794	10044	327108	follicular cysts of skin and subcutaneous tissue	L72
+131796	2484	334668	other follicular disorders	L73
+131804	2908	334244	other disorders of pigmentation	L81
+131806	21404	315748	seborrhoeic keratosis	L82
+131810	2415	334737	corns and callosities	L84
+131812	2303	334849	other epidermal thickening	L85
+131820	1472	335680	decubitus ulcer	L89
+131822	3618	333534	atrophic disorders of skin	L90
+131826	1206	335946	granulomatous disorders of skin and subcutaneous tissue	L92
+131834	1453	335699	ulcer of lower limb, not elsewhere classified	L97
+131836	31780	305372	other disorders of skin and subcutaneous tissue, not elsewhere classified	L98
+131850	6577	330575	other rheumatoid arthritis	M06
+131858	11601	325551	gout	M10
+131864	20420	316732	other arthritis	M13
+131868	7040	330112	polyarthrosis	M15
+131870	13692	323460	coxarthrosis [arthrosis of hip]	M16
+131872	24125	313027	gonarthrosis [arthrosis of knee]	M17
+131874	1392	335760	arthrosis of first carpometacarpal joint	M18
+131876	50500	286652	other arthrosis	M19
+131878	13616	323536	acquired deformities of fingers and toes	M20
+131880	2878	334274	other acquired deformities of limbs	M21
+131882	2152	335000	disorders of patella	M22
+131884	14732	322420	internal derangement of knee	M23
+131886	2919	334233	other specific joint derangements	M24
+131888	57863	279289	other joint disorders, not elsewhere classified	M25
+131892	962	336190	other necrotising vasculopathies	M31
+131900	3254	333898	other systemic involvement of connective tissue	M35
+131906	1967	335185	scoliosis	M41
+131910	3462	333690	other deforming dorsopathies	M43
+131912	1290	335862	ankylosing spondylitis	M45
+131914	2368	334784	other inflammatory spondylopathies	M46
+131916	19385	317767	spondylosis	M47
+131918	8197	328955	other spondylopathies	M48
+131924	15437	321715	other intervertebral disk disorders	M51
+131926	4223	332929	other dorsopathies, not elsewhere classified	M53
+131928	46939	290213	dorsalgia	M54
+131934	2931	334221	other disorders of muscle	M62
+131942	7802	329350	other disorders of synovium and tendon	M67
+131946	11357	325795	soft tissue disorders related to use, overuse and pressure	M70
+131948	2120	335032	other bursopathies	M71
+131950	16122	321030	fibroblastic disorders	M72
+131954	21877	315275	shoulder lesions	M75
+131956	5419	331733	enthesopathies of lower limb, excluding foot	M76
+131960	54958	282194	other soft tissue disorders, not elsewhere classified	M79
+131962	1043	336109	osteoporosis with pathological fracture	M80
+131964	11649	325503	osteoporosis without pathological fracture	M81
+131970	2382	334770	disorders of continuity of bone	M84
+131972	8387	328765	other disorders of bone density and structure	M85
+131980	3234	333918	other disorders of bone	M89
+131992	1512	335640	other acquired deformities of musculoskeletal system and connective tissue	M95
+132016	1019	336133	acute tubulo-interstitial nephritis	N10
+132020	1139	336013	tubulo-interstitial nephritis, not specified as acute or chronic	N12
+132022	2957	334195	obstructive and reflux uropathy	N13
+132032	11928	325224	chronic renal failure	N18
+132034	2034	335118	unspecified renal failure	N19
+132036	5100	332052	calculus of kidney and ureter	N20
+132042	3694	333458	unspecified renal colic	N23
+132050	4450	332702	other disorders of kidney and ureter, not elsewhere classified	N28
+132058	11290	325862	other disorders of bladder	N32
+132066	982	336170	other disorders of urethra	N36
+132070	30175	306977	other disorders of urinary system	N39
+132072	17703	319449	hyperplasia of prostate	N40
+132074	2786	334366	inflammatory diseases of prostate	N41
+132076	1993	335159	other disorders of prostate	N42
+132078	1535	335617	hydrocele and spermatocele	N43
+132082	1855	335297	orchitis and epididymitis	N45
+132086	2269	334883	redundant prepuce, phimosis and paraphimosis	N47
+132088	4414	332738	other disorders of penis	N48
+132092	7821	329331	other disorders of male genital organs	N50
+132096	8259	328893	benign mammary dysplasia	N60
+132098	1305	335847	inflammatory disorders of breast	N61
+132104	8896	328256	other disorders of breast	N64
+132110	1392	335760	inflammatory disease of cervix uteri	N72
+132112	3013	334139	other female pelvic inflammatory diseases	N73
+132116	1555	335597	diseases of bartholin's gland	N75
+132118	3304	333848	other inflammation of vagina and vulva	N76
+132122	6438	330714	endometriosis	N80
+132124	12201	324951	female genital prolapse	N81
+132128	8050	329102	noninflammatory disorders of ovary, fallopian tube and broad ligament	N83
+132130	11524	325628	polyp of female genital tract	N84
+132132	5032	332120	other noninflammatory disorders of uterus, except cervix	N85
+132134	1399	335753	erosion and ectropion of cervix uteri	N86
+132136	4961	332191	dysplasia of cervix uteri	N87
+132138	1903	335249	other noninflammatory disorders of cervix uteri	N88
+132140	8236	328916	other noninflammatory disorders of vagina	N89
+132142	4130	333022	other noninflammatory disorders of vulva and perineum	N90
+132144	1608	335544	absent, scanty and rare menstruation	N91
+132146	19419	317733	excessive, frequent and irregular menstruation	N92
+132148	7280	329872	other abnormal uterine and vaginal bleeding	N93
+132152	24774	312378	menopausal and other perimenopausal disorders	N95
+132156	2666	334486	female infertility	N97
+132160	1096	336056	postprocedural disorders of genito-urinary system, not elsewhere classified	N99
+132166	1438	335714	other abnormal products of conception	O02
+132168	3771	333381	spontaneous abortion	O03
+132170	2527	334625	medical abortion	O04
+132194	985	336167	haemorrhage in early pregnancy	O20
+132206	1454	335698	maternal care for other conditions predominantly related to pregnancy	O26
+132216	998	336154	maternal care for known or suspected malpresentation of foetus	O32
+132220	1189	335963	maternal care for known or suspected abnormality of pelvic organs	O34
+132224	1548	335604	maternal care for other known or suspected foetal problems	O36
+132242	956	336196	prolonged pregnancy	O48
+132250	1501	335651	long labour	O63
+132260	2612	334540	labour and delivery complicated by foetal stress [distress]	O68
+132264	4372	332780	perineal laceration during delivery	O70
+132276	10321	326831	single spontaneous delivery	O80
+132280	1783	335369	single delivery by caesarean section	O82
+132312	1556	335596	other maternal diseases classifiable elsewhere but complicating pregnancy, childbirth and the puerperium	O99
+132574	1112	336040	other congenital malformations of skin	Q82
